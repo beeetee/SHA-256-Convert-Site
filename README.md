@@ -29,7 +29,7 @@ Eclipse Marketplace에서 STS 검색하면 맨 위에 나오는 **Spring Tools 3
 MariaDB 10.2.31 Stable 의 64bit msi 파일 다운로드 
 > 해당 프로젝트의 Maria DB root 계정 비밀번호 :  **1234**
 
-만약 비밀번호를 다른 것으로 설정하고 싶다면 BestShop/src/main/resources/application.properties 의  **spring.datasource.password** 를 자신의 비밀번호로 변경해야 한다.
+만약 비밀번호를 다른 것으로 설정하고 싶다면 SHA_Note/src/main/resources/application.properties 의  **spring.datasource.password** 를 자신의 비밀번호로 변경해야 한다.
 
 [참고 사이트](https://javaplant.tistory.com/31)
 
