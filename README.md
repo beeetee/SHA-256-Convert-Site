@@ -47,4 +47,7 @@ HeidiSQL을 실행 후 sha_note 데이터베이스 선택
  
  #### 서버 구동
  > 이클립스의 프로젝트 폴더에서 Run As - Spring Boot App으로 실행, localhost:8080으로 접속 후 화면 확인
-![image](https://user-images.githubusercontent.com/51993816/75956929-47f17f00-5efc-11ea-9c5d-b6de89226706.png)
+
+![image](https://user-images.githubusercontent.com/51993816/75957049-8b4bed80-5efc-11ea-9c66-a1e2cca9784b.png)
+![image](https://user-images.githubusercontent.com/51993816/75957060-8f780b00-5efc-11ea-9a71-70cb7170cc04.png)
+
