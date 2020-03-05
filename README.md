@@ -44,3 +44,7 @@ MySQL Client
 > create database sha_note
 HeidiSQL을 실행 후 sha_note 데이터베이스 선택
  [파일]-> [SQL 파일 실행] 클릭 후 DB 폴더에 있는 sha_note.sql 파일 선택 후 실행 
+ 
+ #### 서버 구동
+ > 이클립스의 프로젝트 폴더에서 Run As - Spring Boot App으로 실행
+ > localhost:8080으로 
